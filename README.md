@@ -27,7 +27,7 @@ Heroku buildpack with [libvips](https://github.com/jcupitt/libvips) installed.
 Add this buildpack to your app:
 
 ```
-https://github.com/brandoncc/heroku-buildpack-vips
+https://github.com/bibendi/heroku-buildpack-vips
 ```
 
 ## Build script
